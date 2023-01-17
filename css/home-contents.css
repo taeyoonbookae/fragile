@@ -1,0 +1,78 @@
+/* screen - home-contents */
+
+.home-contents {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(41.53, 63.71, 142.38) 0%, rgb(5.31, 21.68, 79.69) 33.85%, rgb(6.68, 17.36, 55.25) 61.46%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px none;
+  display: flex;
+  width: 1920px;
+}
+
+.home-contents .overlap-group1 {
+  margin-left: 221px;
+  position: relative;
+}
+
+.home-contents .overlap-group {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.home-contents .vector-5 {
+  height: 972px;
+  left: 528px;
+  mix-blend-mode: hard-light;
+  position: absolute;
+  top: 0;
+  width: 1171px;
+}
+
+.home-contents .the-worlds-first-phygital-marketplace {
+  color: var(--white);
+  font-family: var(--font-family-univers-55roman);
+  font-size: 84px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -2.94px;
+  line-height: 82.5px;
+  position: absolute;
+  top: 231px;
+}
+
+.home-contents .trade-your-physical {
+  left: 0;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 506px;
+}
+
+.home-contents .image {
+  height: 867px;
+  left: 723px;
+  position: absolute;
+  top: 105px;
+  width: 976px;
+}
+
+.home-contents .button {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--white);
+  border-radius: 32px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  left: 0;
+  padding: 16px;
+  position: absolute;
+  top: 684px;
+  width: 197px;
+}
+
+.home-contents .overlap {
+  height: 972px;
+  width: 1699px;
+}

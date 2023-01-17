@@ -1,0 +1,190 @@
+:root { 
+  --black: #000000;
+  --dark-grey: #1e232d;
+  --grey-3: #acb1b8;
+  --grey1: #f3f6f9;
+  --white: #ffffff;
+  --white-2: #ffffff05;
+  --white-3: #ffffff33;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 20px;
+  --font-size-s: 16px;
+  --font-size-xl: 32px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 44px;
+  --font-size-xxxl: 82px;
+ 
+  --font-family-articulat_cf-bold: "Articulat CF-Bold", Helvetica;
+  --font-family-articulat_cf-demibold: "Articulat CF-DemiBold", Helvetica;
+  --font-family-articulat_cf-medium: "Articulat CF-Medium", Helvetica;
+  --font-family-articulat_cf-regular: "Articulat CF-Regular", Helvetica;
+  --font-family-univers-55roman: "Univers-55Roman", Helvetica;
+}
+.articulatcf-medium-shark-20px {
+  color: var(--dark-grey);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-medium-bombay-16px {
+  color: var(--grey-3);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-bold-shark-20px {
+  color: var(--dark-grey);
+  font-family: var(--font-family-articulat_cf-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-medium-shark-24px {
+  color: var(--dark-grey);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-medium-shark-44px {
+  color: var(--dark-grey);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-medium-shark-12px {
+  color: var(--dark-grey);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-medium-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-medium-shark-82px {
+  color: var(--dark-grey);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-bold-shark-44px {
+  color: var(--dark-grey);
+  font-family: var(--font-family-articulat_cf-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-medium-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-medium-shark-14px {
+  color: var(--dark-grey);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-demi-bold-shark-20px {
+  color: var(--dark-grey);
+  font-family: var(--font-family-articulat_cf-demibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-bold-shark-24px {
+  color: var(--dark-grey);
+  font-family: var(--font-family-articulat_cf-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-medium-shark-32px {
+  color: var(--dark-grey);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-articulat_cf-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-medium-shark-64px {
+  color: var(--dark-grey);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-medium-shark-48px {
+  color: var(--dark-grey);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-medium-shark-36px {
+  color: var(--dark-grey);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-demi-bold-shark-16px {
+  color: var(--dark-grey);
+  font-family: var(--font-family-articulat_cf-demibold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-regular-normal-bombay-24px {
+  color: var(--grey-3);
+  font-family: var(--font-family-articulat_cf-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.articulatcf-medium-shark-80px {
+  color: var(--dark-grey);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 500;
+}

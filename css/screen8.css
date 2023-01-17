@@ -1,0 +1,235 @@
+/* screen - screen8 */
+
+.screen8 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1332px;
+  width: 1920px;
+}
+
+.screen8 .view-1 {
+  -webkit-backdrop-filter: blur(36px) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(36px) brightness(100%);
+  background-color: var(--white-2);
+  display: flex;
+  height: 72px;
+  left: 0;
+  padding: 0 72px;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+  z-index: 3;
+}
+
+.screen8 .logo-1 {
+  height: 26px;
+  min-width: 166px;
+  object-fit: cover;
+}
+
+.screen8 .view-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  margin-left: 520px;
+  width: fit-content;
+}
+
+.screen8 .button {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  padding: 14px 16px;
+  width: fit-content;
+}
+
+.screen8 .sign-in {
+  letter-spacing: -0.20px;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 630px;
+  min-height: 20px;
+  min-width: 66px;
+  text-align: center;
+}
+
+.screen8 .frame-20 {
+  align-items: flex-start;
+  display: flex;
+  gap: 144px;
+  height: 786px;
+  margin-top: 128px;
+  min-width: 1520px;
+  z-index: 2;
+}
+
+.screen8 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 49px;
+  margin-top: -1px;
+  min-height: 629px;
+  width: 496px;
+}
+
+.screen8 .title {
+  letter-spacing: -0.82px;
+  line-height: normal;
+  min-height: 84px;
+}
+
+.screen8 .image {
+  height: 496px;
+  object-fit: cover;
+  width: 496px;
+}
+
+.screen8 .flex-col-1 {
+  align-self: center;
+  margin-top: 86.0px;
+  min-height: 610px;
+  width: 880px;
+}
+
+.screen8 .x42-eth {
+  letter-spacing: -0.44px;
+  line-height: normal;
+  margin-top: 20px;
+  min-height: 45px;
+}
+
+.screen8 .line-1 {
+  margin-top: 122px;
+  object-fit: cover;
+}
+
+.screen8 .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 36px;
+  height: 45px;
+  margin-top: 23px;
+  min-width: 189px;
+}
+
+.screen8 .line-3 {
+  margin-top: 20px;
+}
+
+.screen8 .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 36px;
+  height: 45px;
+  margin-top: 22px;
+  min-width: 201px;
+}
+
+.screen8 .vault-it {
+  letter-spacing: -0.44px;
+  line-height: normal;
+  min-height: 45px;
+  min-width: 133px;
+}
+
+.screen8 .button-2 {
+  align-items: center;
+  align-self: flex-end;
+  border: 1px solid;
+  border-color: var(--dark-grey);
+  border-radius: 32px;
+  display: flex;
+  gap: 304px;
+  height: 60px;
+  margin-top: 53px;
+  opacity: 0.2;
+  padding: 16px 32px;
+  width: 501px;
+}
+
+.screen8 .next {
+  height: 32px;
+  margin-bottom: -2.00px;
+  margin-right: -12.00px;
+  margin-top: -2.00px;
+  min-width: 32px;
+  position: relative;
+}
+
+.screen8 .rectangle-4 {
+  height: 19px;
+  left: 15px;
+  position: absolute;
+  top: 7px;
+  width: 10px;
+}
+
+.screen8 .view-3 {
+  height: 261px;
+  margin-top: 157px;
+  position: relative;
+  width: 1920px;
+  z-index: 1;
+}
+
+.screen8 .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 133px;
+  left: 968px;
+  min-width: 772px;
+  position: absolute;
+  top: 46px;
+}
+
+.screen8 .flex-col-2 {
+  gap: 21px;
+  min-height: 101px;
+  width: 95px;
+}
+
+.screen8 .button-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  padding: 6px 0px;
+  width: fit-content;
+}
+
+.screen8 .place {
+  letter-spacing: -0.20px;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: center;
+  width: fit-content;
+}
+
+.screen8 .flex-col-3 {
+  gap: 21px;
+  margin-left: 204px;
+  min-height: 133px;
+  width: 108px;
+}
+
+.screen8 .flex-col-4 {
+  gap: 21px;
+  margin-left: 191px;
+  min-height: 133px;
+  width: 174px;
+}
+
+.screen8 .flex-col-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.screen8 .line {
+  height: 1px;
+  width: 880px;
+}

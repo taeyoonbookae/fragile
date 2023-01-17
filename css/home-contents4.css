@@ -1,0 +1,73 @@
+/* screen - home-contents4 */
+
+.home-contents4 {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(68.49, 95.96, 193.37) 4.17%, rgb(82.74, 155.74, 223.12) 44.57%, rgb(154.77, 206.74, 244.38) 91.88%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px none;
+  display: flex;
+  gap: 16px;
+  width: 1920px;
+}
+
+.home-contents4 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 221px;
+  margin-top: 215px;
+  min-height: 341px;
+  width: 723px;
+}
+
+.home-contents4 .the-worlds-first-phygital-marketplace {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: 80px;
+  font-weight: 500;
+  letter-spacing: -1.60px;
+  line-height: normal;
+  min-height: 164px;
+}
+
+.home-contents4 .trade-your-physical {
+  letter-spacing: -0.24px;
+  line-height: normal;
+  margin-top: 24px;
+  min-height: 24px;
+}
+
+.home-contents4 .button {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--white);
+  border-radius: 32px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 73px;
+  padding: 16px;
+  width: 197px;
+}
+
+.home-contents4 .overlap-group {
+  height: 972px;
+  position: relative;
+  width: 960px;
+}
+
+.home-contents4 .vector-4 {
+  height: 972px;
+  left: 89px;
+  position: absolute;
+  top: 0;
+  width: 871px;
+}
+
+.home-contents4 .image {
+  height: 860px;
+  left: 0;
+  position: absolute;
+  top: 112px;
+  width: 960px;
+}

@@ -1,0 +1,54 @@
+/* screen - home-contents3 */
+
+.home-contents3 {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgb(240.12, 248.75, 255) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px none;
+  display: flex;
+  gap: 151px;
+  height: 972px;
+  width: 1920px;
+}
+
+.home-contents3 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 221px;
+  margin-top: 215px;
+  min-height: 341px;
+  width: 723px;
+}
+
+.home-contents3 .the-worlds-first-phygital-marketplace {
+  letter-spacing: -1.60px;
+  line-height: normal;
+  min-height: 164px;
+}
+
+.home-contents3 .trade-your-physical {
+  letter-spacing: -0.24px;
+  line-height: normal;
+  margin-top: 24px;
+  min-height: 24px;
+}
+
+.home-contents3 .button {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--dark-grey);
+  border-radius: 32px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 73px;
+  padding: 16px;
+  width: 197px;
+}
+
+.home-contents3 .image {
+  height: 770px;
+  margin-top: 202px;
+  width: 825px;
+}

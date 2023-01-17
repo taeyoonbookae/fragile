@@ -1,0 +1,51 @@
+/* screen - geomsaegcang-1 */
+
+.geomsaegcang-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.5px solid;
+  border-color: var(--black);
+  display: flex;
+  gap: 6px;
+  height: 100vh;
+  min-height: 56px;
+  min-width: 1180px;
+  padding: 16px 20px;
+  width: 100%;
+}
+
+.geomsaegcang-1 .icon_-search {
+  height: 24px;
+  min-width: 24px;
+}
+
+.geomsaegcang-1 .group-97 {
+  align-items: flex-end;
+  display: flex;
+  left: 4px;
+  min-width: 16px;
+  position: relative;
+  top: 3px;
+}
+
+.geomsaegcang-1 .overlap-group {
+  height: 18px;
+  margin-bottom: -0.7px;
+  position: relative;
+  width: 17px;
+}
+
+.geomsaegcang-1 .vector-1 {
+  height: 6px;
+  left: 11px;
+  position: absolute;
+  top: 12px;
+  width: 6px;
+}
+
+.geomsaegcang-1 .title {
+  letter-spacing: -0.24px;
+  line-height: normal;
+  margin-top: -0.50px;
+  width: fit-content;
+}

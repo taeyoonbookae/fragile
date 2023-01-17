@@ -1,0 +1,87 @@
+/* screen - home-contents-5 */
+
+.home-contents-5 {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(41.53, 63.71, 142.38) 0%, rgb(5.31, 21.68, 79.69) 33.85%, rgb(6.68, 17.36, 55.25) 61.46%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px none;
+  display: flex;
+  width: 1920px;
+}
+
+.home-contents-5 .overlap-group {
+  height: 972px;
+  position: relative;
+  width: 1920px;
+}
+
+.home-contents-5 .vector-5 {
+  height: 972px;
+  left: 75px;
+  mix-blend-mode: hard-light;
+  position: absolute;
+  top: 0;
+  width: 1771px;
+}
+
+.home-contents-5 .button {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--white);
+  border-radius: 32px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  left: 861px;
+  padding: 16px;
+  position: absolute;
+  top: 430px;
+  width: 197px;
+}
+
+.home-contents-5 .the-worlds-first-phygital-marketplace {
+  color: var(--white);
+  font-family: var(--font-family-univers-55roman);
+  font-size: 96px;
+  font-weight: 400;
+  left: 328px;
+  letter-spacing: -3.84px;
+  line-height: 94.3px;
+  position: absolute;
+  text-align: center;
+  top: 131px;
+  width: 1265px;
+}
+
+.home-contents-5 .trade-your-physical {
+  left: 657px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 351px;
+}
+
+.home-contents-5 .group {
+  height: 744px;
+  left: 0;
+  position: absolute;
+  top: 228px;
+  width: 992px;
+}
+
+.home-contents-5 .group-1 {
+  height: 646px;
+  left: 1444px;
+  position: absolute;
+  top: 306px;
+  width: 476px;
+}
+
+.home-contents-5 .group-2 {
+  height: 422px;
+  left: 1127px;
+  position: absolute;
+  top: 550px;
+  width: 272px;
+}

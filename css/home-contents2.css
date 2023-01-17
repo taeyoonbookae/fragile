@@ -1,0 +1,63 @@
+/* screen - home-contents2 */
+
+.home-contents2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 972px;
+  width: 1920px;
+}
+
+.home-contents2 .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/vector-2.svg);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 151px;
+  height: 791px;
+  justify-content: flex-end;
+  margin-top: 180.58px;
+  min-width: 1920px;
+}
+
+.home-contents2 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 34.42px;
+  min-height: 341px;
+  width: 723px;
+}
+
+.home-contents2 .the-worlds-first-phygital-marketplace {
+  letter-spacing: -1.60px;
+  line-height: normal;
+  min-height: 164px;
+}
+
+.home-contents2 .trade-your-physical {
+  letter-spacing: -0.24px;
+  line-height: normal;
+  margin-top: 24px;
+  min-height: 24px;
+}
+
+.home-contents2 .button {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--dark-grey);
+  border-radius: 32px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 73px;
+  padding: 16px;
+  width: 197px;
+}
+
+.home-contents2 .image {
+  align-self: flex-end;
+  height: 770px;
+  width: 825px;
+}
